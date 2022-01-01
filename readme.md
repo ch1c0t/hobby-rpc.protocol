@@ -32,7 +32,7 @@ Servers can respond with:
 
 - [200 OK][200]:
 
-  Happy path and JSON output in the body.
+  Happy path. JSON output in the body.
 
 - [400 Bad Request][400]:
 
